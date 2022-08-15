@@ -1,0 +1,6 @@
+requests
+gspread
+psycopg2
+xmltodict
+aiogram
+asyncio
